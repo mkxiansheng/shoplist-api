@@ -1,0 +1,9 @@
+{
+  "name": "shoplist-api",
+  "version": "1.0",
+  "description": "shoplist api",
+  "main": "app.js",
+  "devDependencies": {
+    "express": "^4.15.4"
+  }
+}
